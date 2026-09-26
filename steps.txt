@@ -1,0 +1,15 @@
+code .
+
+## create conda venv
+conda create -p venv python=3.13
+
+## activate venv
+conda activate venv/
+
+## check python version
+python --version
+
+## create requirements.txt
+
+## install the libraries
+pip install -r requirements.txt
