@@ -1,0 +1,2 @@
+Classification -> https://www.kaggle.com/datasets/marcpaulo/titanic-huge-dataset-1m-passengers
+Regression -> https://www.kaggle.com/datasets/atharvasoundankar/ai-developer-productivity-dataset
